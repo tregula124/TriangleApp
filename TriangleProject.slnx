@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/TriangleApp/TriangleApp.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TriangleApp.Tests/TriangleApp.Tests.csproj" />
+  </Folder>
 </Solution>
